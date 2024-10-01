@@ -1,4 +1,21 @@
 # Hundir_la_flota_NEW
+
+                                |    |    |                             
+                           )___) )___) )___)                            
+                       )____))____))_____)                             
+                    )_____))_____))______)                            
+                 _____|_____|_____|_____|___                           
+          ---------\                   /---------                     
+   ^^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                
+     ^^^^      ^^^^     ^^^    ^^^^     ^^^    ^^^^     
+          ^^^^      ^^^^    ^^^^     ^^^   
+
+          
+         __/____                
+  _____/______|               
+  \              \               
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                    
+
 Hundir la Flota (Batalla Naval)
 Este es un juego de Batalla Naval en Python, donde te enfrentas a la máquina. El objetivo es hundir todos los barcos del oponente antes de que él hunda los tuyos. Ambos jugadores tienen un tablero de 10x10 y colocan 6 barcos de diferentes tamaños. Los disparos se realizan introduciendo coordenadas en el formato fila columna.
 
